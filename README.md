@@ -50,6 +50,8 @@ Actions cand be combined with movement
 
 use `N` or `n` for next/previous
 
+|search|description|
+|-|-|
 |`/search_string`|basic search forward|
 |`/<search_string>`| search for exact word forward|
 |`?search_string`|basic search backwards|
