@@ -30,6 +30,7 @@ other movements are `Ctrl-e`, `Ctrl-y`, `Ctrl-d` ...
 |`ESC`| go to normal mode|
 |`:`| enter ex command|
 
+### The ex command line
 
 ## Actions
 
