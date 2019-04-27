@@ -28,7 +28,7 @@ other movements are `Ctrl-e`, `Ctrl-y`, `Ctrl-d` ...
 |-|-|
 |`v`|visual mode|
 |`ESC`| go to normal mode|
-|`:`| command line|
+|`:`| enter ex command|
 
 
 ## Actions
