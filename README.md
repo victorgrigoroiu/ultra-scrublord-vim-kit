@@ -24,7 +24,8 @@
 other movements are `Ctrl-e`, `Ctrl-y`, `Ctrl-d` ...
 
 ### Modes
-
+|key|description|
+|-|-|
 |`v`|visual mode|
 |`ESC`| go to normal mode|
 |`:`| command line|
