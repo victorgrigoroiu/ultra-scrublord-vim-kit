@@ -21,6 +21,8 @@
 |`gg`|go to the start of the buffer|
 |`G`|go to buffer end|
 
+other movements are `Ctrl-e`, `Ctrl-y`, `Ctrl-d` ...
+
 ### Modes
 
 |`v`|visual mode|
@@ -42,6 +44,9 @@ Actions cand be combined with movement
 |`yy`| yank/copy line|
 |`p`|put text from register after the cursor|
 |`P`|put text from register after the cursor|
+|`u`|undo|
+|`U`|undo line|
+|`Ctrl-r`|redo|
 
 
 ## Search and RE
