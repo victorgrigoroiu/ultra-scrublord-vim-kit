@@ -8,6 +8,8 @@
 
 ## .vimrc
 
+generate a basic vimrc [here](http://vim-bootstrap.com/)
+
 ## Plugins
 
 
