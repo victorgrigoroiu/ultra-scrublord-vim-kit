@@ -43,7 +43,7 @@ other movements are `Ctrl-e`, `Ctrl-y`, `Ctrl-d` ...
 |`Ctrl-6`| navigate(toggle between open buffers)|
 |`<BufferNumber>Ctrl-6`|got to the numbered buffer|
 
-some ex commands for
+some ex commands for buffer navigation `:bnext`, `:bprevious`
 
 ## Actions
 
