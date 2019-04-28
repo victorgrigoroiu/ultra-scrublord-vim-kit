@@ -47,7 +47,7 @@ some ex commands for buffer navigation `:bnext`, `:bprevious`
 
 ## Actions
 
-Actions cand be combined with movement
+Actions can be combined with movement
 
 |key|descritption|
 |-|-|
@@ -68,7 +68,7 @@ Actions cand be combined with movement
 
 ### Basic search
 
-use `N` or `n` for next/previous
+use `n` or `N` for next/previous
 
 |search|description|
 |-|-|
