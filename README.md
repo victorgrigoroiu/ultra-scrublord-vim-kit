@@ -1,5 +1,7 @@
 # Ultra scrub lord vim kit
 
+`h help`,`h <topic>`
+
 ## Overview
 
 ## Basics
@@ -34,11 +36,14 @@ other movements are `Ctrl-e`, `Ctrl-y`, `Ctrl-d` ...
 
 ### Buffers
 
-|ex command| description|
+|ex command or key combination| description|
 |-|-|
 |`:e /path/to/file`|it opens a specified file or creates a new one if it does not exist after `w`|
 |`:bd`|delete/close current buffer|
 |`Ctrl-6`| navigate(toggle between open buffers)|
+|`<BufferNumber>Ctrl-6`|got to the numbered buffer|
+
+some ex commands for
 
 ## Actions
 
