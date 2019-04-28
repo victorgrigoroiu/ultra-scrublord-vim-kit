@@ -77,6 +77,15 @@ use `N` or `n` for next/previous
 |`?search_string`|basic search backwards|
 |`?<search_string>`| search for exact word backwards|
 
+### Search and replace using RE
+
+|command|description|
+|-|-|
+|`s/old/new/`|search first ocurence of `old` and change it with `new` on a line|
+|`s/old/new/g`|same as above but use the global `g` option|
+|`%s/old/new/g`|search and replace in the whole document|
+|`%s/old/new/gc`|same as above but ask for confirmation|
+
 ## .vimrc
 
 generate a basic vimrc [here](http://vim-bootstrap.com/)
