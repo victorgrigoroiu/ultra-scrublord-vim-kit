@@ -1,6 +1,6 @@
 # Ultra scrub lord vim kit
 
-`h help`,`h <topic>`
+`:h help`,`:h <topic>`
 
 ## Overview
 
