@@ -90,6 +90,8 @@ use `n` or `N` for next/previous
 
 generate a basic vimrc [here](http://vim-bootstrap.com/)
 
+enable folding for python `:setlocal foldmethod=indent`
+
 ## Plugins
 
 
