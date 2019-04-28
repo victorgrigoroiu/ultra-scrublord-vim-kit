@@ -32,6 +32,14 @@ other movements are `Ctrl-e`, `Ctrl-y`, `Ctrl-d` ...
 
 ### The ex command line
 
+### Buffers
+
+|ex command| description|
+|-|-|
+|`:e /path/to/file`|it opens a specified file or creates a new one if it does not exist after `w`|
+|`:bd`|delete/close current buffer|
+|`Ctrl-6`| navigate(toggle between open buffers)|
+
 ## Actions
 
 Actions cand be combined with movement
