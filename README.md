@@ -59,6 +59,7 @@ some ex commands for buffer navigation `:bnext`, `:bprevious`
 ### Windows
 
 |command|description|
+|-|-|
 |`vs`/`hs`|vertical-/horizontal- split|
 |`Ctrl-w Ctrl-w`|toggle between splits|
 |`Ctrl-w q`|close current focused split|
