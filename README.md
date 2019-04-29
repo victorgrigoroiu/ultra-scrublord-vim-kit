@@ -4,11 +4,15 @@
 
 ## Overview
 
-[Basics](#basics)
-  [Basics](#movement)
-[Basics](#basics)
-[Basics](#basics)
-[Basics](#basics)
+* [Basics](#basics)
+   - [Movement](#movement)
+   - [Modes](#modes)
+   - [The ex command line](#the-ex-command-line)
+   - [Buffers](#buffers)
+   - [Windows/Panes](#windows-panes)
+* [Actions](#actions)
+* [Basics](#basics)
+* [Basics](#basics)
 
 ## Basics
 
