@@ -75,7 +75,7 @@ Actions can be combined with movement
 |key|descritption|
 |-|-|
 |`x`|delete under the cursor|
-|`r char`|replace under the cursor|
+|`r char`|replace character under the cursor with `char`|
 |`d`|delete|
 |`dd`|delete/cut line|
 |`y`|yank/copy|
