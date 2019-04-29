@@ -9,10 +9,11 @@
    - [Modes](#modes)
    - [The ex command line](#the-ex-command-line)
    - [Buffers](#buffers)
-   - [Windows/Panes](#windows-panes)
+   - [Panes](#panes)
 * [Actions](#actions)
-* [Basics](#basics)
-* [Basics](#basics)
+* [Search and RE](#search-and-re)
+* [vimrc](#vimrc)
+* [Plugins](#plugins)
 
 ## Basics
 
@@ -55,7 +56,7 @@ other movements are `Ctrl-e`, `Ctrl-y`, `Ctrl-d` ...
 
 some ex commands for buffer navigation `:bnext`, `:bprevious`
 
-### Windows/Panes
+### Panes
 
 |command|description|
 |`vs`/`hs`|vertical-/horizontal- split|
