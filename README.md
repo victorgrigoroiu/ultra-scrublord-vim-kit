@@ -45,6 +45,13 @@ other movements are `Ctrl-e`, `Ctrl-y`, `Ctrl-d` ...
 
 some ex commands for buffer navigation `:bnext`, `:bprevious`
 
+### Windows/Panes
+
+|command|description|
+|`vs`/`hs`|vertical-/horizontal- split|
+|`Ctrl-w Ctrl-w`|toggle between splits|
+|`Ctrl-w q`|close current focused split|
+
 ## Actions
 
 Actions can be combined with movement
