@@ -9,7 +9,7 @@
    - [Modes](#modes)
    - [The ex command line](#the-ex-command-line)
    - [Buffers](#buffers)
-   - [Panes](#panes)
+   - [Windows](#windows)
 * [Actions](#actions)
 * [Search and RE](#search-and-re)
 * [Configuration](#configuration)
@@ -56,12 +56,17 @@ other movements are `Ctrl-e`, `Ctrl-y`, `Ctrl-d` ...
 
 some ex commands for buffer navigation `:bnext`, `:bprevious`
 
-### Panes
+### Windows
 
 |command|description|
 |`vs`/`hs`|vertical-/horizontal- split|
 |`Ctrl-w Ctrl-w`|toggle between splits|
 |`Ctrl-w q`|close current focused split|
+|`Ctrl-w H`|move window to left|
+|`Ctrl-w J`|move window to bottom|
+|`Ctrl-w K`|move window to up|
+|`Ctrl-w L`|move window to right|
+|`Ctrl-w Ctrl-r`|rotate split windows|
 
 ## Actions
 
