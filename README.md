@@ -116,6 +116,8 @@ generate a basic vimrc [here](http://vim-bootstrap.com/)
 
 enable folding for python `:setlocal foldmethod=indent`
 
+diplay comments in italic `:highlight Comment cterm=italic gui=italic`
+
 ## Plugins
 
 
