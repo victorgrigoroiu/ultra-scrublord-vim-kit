@@ -12,7 +12,7 @@
    - [Panes](#panes)
 * [Actions](#actions)
 * [Search and RE](#search-and-re)
-* [vimrc](#vimrc)
+* [Configuration](#configuration)
 * [Plugins](#plugins)
 
 ## Basics
@@ -104,7 +104,7 @@ use `n` or `N` for next/previous
 |`%s/old/new/g`|search and replace in the whole document|
 |`%s/old/new/gc`|same as above but ask for confirmation|
 
-## .vimrc
+## Configuration
 
 generate a basic vimrc [here](http://vim-bootstrap.com/)
 
