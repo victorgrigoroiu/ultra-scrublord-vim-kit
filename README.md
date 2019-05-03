@@ -122,4 +122,7 @@ diplay comments in italic `:highlight Comment cterm=italic gui=italic`
 
 ## Plugins
 
+## Misc
+
+reindent html `gg=G`
 
